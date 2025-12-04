@@ -1,5 +1,4 @@
-
-hashlib
+streamlit
 pandas
-plotly.express
-
+plotly
+openpyxl
