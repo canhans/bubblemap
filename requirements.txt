@@ -1,5 +1,5 @@
-math\
-hashlib\
-pandas \
-plotly.express\
-streamlit
+math
+hashlib
+pandas
+plotly.express
+
